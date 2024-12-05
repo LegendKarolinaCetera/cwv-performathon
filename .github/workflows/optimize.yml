@@ -1,4 +1,4 @@
-name: Install and Run Global NPM Package
+name: Install and Run Global NPM Package for SVGO
 
 on:
   push:
