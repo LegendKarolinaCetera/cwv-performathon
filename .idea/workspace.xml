@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="722cae0b-e81f-4141-a5c3-1e1a9f2416d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/svgs/Groucho-Marx-Arvin61r58.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svgs/MultiTouch-Interface-Pixel-theme-Path-Gesture.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svgs/MultiTouch-Interface-Pixel-theme-Resize.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svgs/ftgabber.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svgs/ftisp.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svgs/ftkgoldrunner.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svgs/promotion-company-vector.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svgs/selfie-woman-vector.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svgs/smartphone-messaging-vector.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/ItemGrid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/ItemGrid.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/ItemTeam.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/ItemTeam.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/ItemTestimonial.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/ItemTestimonial.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/widgets/Contact.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/widgets/Contact.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/widgets/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/widgets/Content.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/widgets/Features.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/widgets/Features.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/widgets/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/widgets/Hero.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/widgets/Steps.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/widgets/Steps.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/widgets/Team.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/widgets/Team.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/widgets/Testimonials.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/widgets/Testimonials.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/data/pages/home.data.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/data/pages/home.data.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/optimize.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/optimize.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733401835801</updated>
-      <workItem from="1733401836850" duration="5505000" />
+      <workItem from="1733401836850" duration="5582000" />
     </task>
     <servers />
   </component>
