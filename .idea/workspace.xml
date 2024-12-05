@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="722cae0b-e81f-4141-a5c3-1e1a9f2416d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/optimize.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/optimize.yml" afterDir="false" />
-    </list>
+    <list default="true" id="722cae0b-e81f-4141-a5c3-1e1a9f2416d1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,16 +27,20 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="remove-large-file" />
+                    <option name="lastUsedInstant" value="1733410163" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1733410150" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="test-new-action" />
                     <option name="lastUsedInstant" value="1733408739" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="github-action-setup" />
                     <option name="lastUsedInstant" value="1733404410" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1733404409" />
                   </RecentBranch>
                 </list>
               </option>
@@ -65,7 +67,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "test-new-action",
+    "git-widget-placeholder": "remove-large-file",
     "last_opened_file_path": "/Users/karolina.cetera/Desktop/cwv-performathon/src/assets/svgs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
