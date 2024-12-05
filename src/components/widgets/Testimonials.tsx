@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { TestimonialsProps } from '../src/shared/types';
+import { TestimonialsProps } from '../../shared/types';
 import Headline from '../common/Headline';
 import WidgetWrapper from '../common/WidgetWrapper';
 import CTA from '../common/CTA';

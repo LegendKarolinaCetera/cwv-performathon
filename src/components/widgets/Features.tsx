@@ -1,4 +1,4 @@
-import { FeaturesProps } from '../src/shared/types';
+import { FeaturesProps } from '../../shared/types';
 import Headline from '../common/Headline';
 import WidgetWrapper from '../common/WidgetWrapper';
 import ItemGrid from '../common/ItemGrid';

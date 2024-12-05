@@ -2,6 +2,7 @@ import Form from '../common/Form';
 import Headline from '../common/Headline';
 import { ContactProps } from '../../shared/types';
 import WidgetWrapper from '../common/WidgetWrapper';
+import Image from "next/image";
 
 const Contact = ({ header, content, items, form, id, hasBackground = false }: ContactProps) => (
   <WidgetWrapper id={id ? id : ''} hasBackground={hasBackground} containerClass="max-w-6xl">
@@ -15,7 +16,7 @@ const Contact = ({ header, content, items, form, id, hasBackground = false }: Co
               items.map(({ title, description, icon: Icon }, index) => (
                 <li key={`item-contact-${index}`} className="flex">
                   <div className="flex h-10 w-10 items-center justify-center rounded bg-blue-900 text-gray-50">
-                    {Icon && <Icon className="h-6 w-6" />}
+                    {Icon && <Image src={Icon} alt="alt" />}
                   </div>
                   <div className="ml-4 rtl:ml-0 rtl:mr-4 mb-4">
                     <h3 className="mb-2 text-lg font-medium leading-6 text-gray-900 dark:text-white">{title}</h3>

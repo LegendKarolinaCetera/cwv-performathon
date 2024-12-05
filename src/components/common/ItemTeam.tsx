@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { twMerge } from 'tailwind-merge';
-import { Team } from '../src/shared/types';
+import { Team } from '../../shared/types';
+import icon from "../../assets/svgs/selfie-woman-vector.svg"
 
 const ItemTeam = ({
   name,
@@ -37,7 +38,7 @@ const ItemTeam = ({
                       aria-label={title as string}
                       className="flex items-center justify-center rounded-sm bg-transparent p-0.5 text-primary-900 hover:bg-primary-900 hover:text-slate-200 hover:dark:bg-slate-800 hover:dark:text-slate-200"
                     >
-                      <Icon className="h-6 w-6 p-0.5" />
+                      <Image src={icon} alt="alt" />
                     </a>
                   </li>
                 ),

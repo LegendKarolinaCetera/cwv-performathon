@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg1"
+    sodipodi:docname="kgoldrunner.svg"
+    viewBox="0 0 60 60"
+    sodipodi:version="0.32"
+    version="1.0"
+    y="0"
+    x="0"
+    inkscape:version="0.38.1"
+    sodipodi:docbase="/home/danny/flat/scalable/apps"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-width="1016"
+      pagecolor="#ffffff"
+      snaptoguides="true"
+      inkscape:zoom="4.9119411"
+      inkscape:window-x="0"
+      borderopacity="1.0"
+      inkscape:cx="37.697545"
+      inkscape:cy="29.630320"
+      inkscape:window-y="0"
+      inkscape:window-height="709"
+      inkscape:pageopacity="0.0"
+      showguides="true"
+  />
+  <g
+      id="g1139"
+      transform="matrix(3.0758 0 -1.1205 2.4456 -57.599 -60.044)"
+    >
+    <path
+        id="path992"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#333333;stroke-linecap:round;stroke-width:.31914;fill:#333333"
+        d="m-17.995 50.643l2.34-6.118 2.879 1.619 0.36 4.139 2.159 0.36 0.18-0.72-0.9-0.72-0.719-3.959-2.52-2.519 0.72-2.159 3.7789-0.18v-0.72l-2.5189-0.36-1.98-1.619-1.799 0.18-3.084-1.435 0.035 0.743 1.789 1.771 0.54 0.54-0.72 3.419 0.18 2.159-2.159 5.939 1.439-0.36z"
+        sodipodi:nodetypes="ccccccccccccccccccccccc"
+        transform="matrix(.78335 0 0 .78335 52.625 8.3775)"
+        sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.80000001)"
+    />
+    <path
+        id="path705"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#333333;stroke-linecap:round;stroke-width:0.375;fill:#333333"
+        d="m-40.881 35.174l4.584 4.803 7.423-5.021 5.894 2.619 1.965 8.605 6.331-0.058 1.746-8.829 5.8945-2.337 7.4225 4.802 3.493-4.802-8.4237-7.95c-21.59 19.803-40.248-10.718-21.703-23.487v-4.5846l-2.183 1.0916-6.767-4.3023-4.675 3.8392 4.238 7.2307-2.401 5.8944-8.271 1.374-0.025 6.267 8.514 2.183 2.347 5.731-5.403 6.931z"
+        sodipodi:nodetypes="ccccccccccccccccccccccc"
+        transform="matrix(.096778 0 0 .096778 44.413 34.359)"
+        sodipodi:stroke-cmyk="(0 0 0 0.8)"
+    />
+  </g
+  >
+  <path
+      id="path1142"
+      style="stroke-linejoin:round;fill-rule:evenodd;stroke:#333333;stroke-linecap:round;stroke-width:1.5826;fill:#b3b3b3"
+      transform="matrix(1.1848 0 0 1.1848 -41.912 -44.241)"
+      d="m41.028 40.746l-3.239 4.678 5.758 2.52v2.159l2.159 0.18 3.239-2.699 2.16-3.599-1.62-1.8s-1.439-0.899-1.979-1.619-1.98-0.72-1.98-0.72l-4.498 0.9z"
+      sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.80000001)"
+  />
+  <path
+      id="path1145"
+      style="stroke-linejoin:round;stroke:#333333;stroke-linecap:round;stroke-width:2.5511;fill:none"
+      d="m42.287 8.7154v46.247m8.458 0.179v-46.246m-8.098 5.219h7.558m-7.558 7.198h7.738m-7.918 7.377h8.278m-8.278 7.198h8.098m-7.918 7.378h8.098m-7.918 6.838h7.918"
+      sodipodi:nodetypes="cccccccccccccccc"
+      transform="matrix(1.5005 0 0 1 -20.132 1.4396)"
+      sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.80000001)"
+  />
+  <path
+      id="path1146"
+      style="stroke-linejoin:round;stroke:#333333;stroke-linecap:round;stroke-width:3.125;fill:none"
+      d="m39.048 18.612h-35.809"
+      sodipodi:nodetypes="cc"
+      transform="translate(0 .71978)"
+      sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.80000001)"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >ftkgoldrunner</dc:title
+        >
+        <dc:date
+          >2011-01-31T02:11:54</dc:date
+        >
+        <dc:description
+          >Originally uploaded by Danny Allen for OCAL 0.18 this icon is part of the flat theme</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/115639/ftkgoldrunner-by-anonymous</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Anonymous</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >flat</rdf:li
+            >
+            <rdf:li
+              >icon</rdf:li
+            >
+            <rdf:li
+              >theme</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

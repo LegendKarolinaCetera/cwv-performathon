@@ -1,11 +1,10 @@
 import {
   IconArrowDown,
-  IconArrowsRightLeft,
+  // IconArrowsRightLeft,
   IconBrandLinkedin,
-  IconBrandTailwind,
+  // IconBrandTailwind,
   IconBrandTwitter,
   IconBulb,
-  IconCheck,
   IconClock,
   IconComponents,
   IconDownload,
@@ -28,14 +27,15 @@ import {
   TeamProps,
   TestimonialsProps,
 } from '../../types';
-import heroImg from '../../../assets/images/hero.jpg';
+import heroImg from '../../../assets/svgs/ftgabber.svg';
 import nextJsLogo from '../../../assets/images/nextjs-logo.png';
 import reactLogo from '../../../assets/images/react-logo.png';
 import tailwindCssLogo from '../../../assets/images/tailwind-css-logo.png';
 import typescriptLogo from '../../../assets/images/typescript-logo.png';
-import cameraFrontImg from '../../../assets/images/camera-front.jpg';
-import cameraBackImg from '../../../assets/images/camera-back.jpg';
-import gasImg from '../../../assets/images/gas.jpg';
+import cameraFrontImg from '../../../assets/svgs/selfie-woman-vector.svg';
+import cameraBackImg from '../../../assets/svgs/smartphone-messaging-vector.svg';
+import gasImg from '../../../assets/svgs/promotion-company-vector.svg';
+import icon  from '../../../assets/svgs/ftisp.svg'
 
 // Hero data on Home page *******************
 export const heroHome: HeroProps = {
@@ -121,7 +121,7 @@ export const featuresHome: FeaturesProps = {
       title: 'Next.Js + Tailwind CSS Integration',
       description:
         'A seamless integration between two great frameworks that offer high productivity, performance and versatility.',
-      icon: IconBrandTailwind,
+      icon: icon,
       callToAction: {
         text: 'Discover now',
         href: '/',
@@ -131,7 +131,7 @@ export const featuresHome: FeaturesProps = {
       title: 'Ready-to-use Components',
       description:
         'Widgets made with Tailwind CSS ready to be used in Marketing Websites, SaaS, Blogs, Personal Profiles, Small Business...',
-      icon: IconComponents,
+      icon: icon,
       callToAction: {
         text: 'Discover now',
         href: '/',
@@ -141,7 +141,7 @@ export const featuresHome: FeaturesProps = {
       title: 'Best Practices',
       description:
         'By prioritizing maintainability and scalability through coding standards and design principles, your website stays robust and efficient.',
-      icon: IconListCheck,
+      icon: icon,
       callToAction: {
         text: 'Discover now',
         href: '/',
@@ -151,7 +151,7 @@ export const featuresHome: FeaturesProps = {
       title: 'Excellent Page Speed',
       description:
         'Having a good page speed impacts organic search ranking, improves user experience (UI/UX) and increase conversion rates.',
-      icon: IconRocket,
+      icon: icon,
       callToAction: {
         text: 'Discover now',
         href: '/',
@@ -161,7 +161,7 @@ export const featuresHome: FeaturesProps = {
       title: 'Search Engine Optimization (SEO)',
       description:
         "Boost online visibility with our SEO-friendly website. Effective strategies and practices enhance your website's search engine ranking, making it easier for users to find your content.",
-      icon: IconArrowsRightLeft,
+      icon: icon,
       callToAction: {
         text: 'Discover now',
         href: '/',
@@ -171,7 +171,7 @@ export const featuresHome: FeaturesProps = {
       title: 'Open to new ideas and contributions',
       description:
         'We welcome new ideas and contributions to our platform. Whether you have feature suggestions, want to contribute code, or share insights, our platform is open for collaboration.',
-      icon: IconBulb,
+      icon: icon,
       callToAction: {
         text: 'Discover now',
         href: '/',
@@ -268,19 +268,20 @@ export const stepsHome: StepsProps = {
       title: 'Step 1',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed porttitor est nibh at nulla. Praesent placerat enim ut ex tincidunt vehicula. Fusce sit amet dui tellus.',
-      icon: IconArrowDown,
+      icon: icon,
     },
     {
       title: 'Step 2',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed porttitor est nibh at nulla.',
-      icon: IconArrowDown,
+      icon: icon,
+
     },
     {
       title: 'Step 3',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed porttitor est nibh at nulla.',
-      icon: IconArrowDown,
+      icon: icon,
     },
     {
       title: 'Ready!',
@@ -510,17 +511,17 @@ export const teamHome: TeamProps = {
       items: [
         {
           title: 'Know more on Twitter',
-          icon: IconBrandTwitter,
+          icon: icon,
           href: '#',
         },
         {
           title: 'Know more on Linkedin',
-          icon: IconBrandLinkedin,
+          icon: icon,
           href: '#',
         },
         {
           title: 'Contact by email',
-          icon: IconMail,
+          icon: icon,
           href: '#',
         },
       ],
@@ -535,17 +536,17 @@ export const teamHome: TeamProps = {
       items: [
         {
           title: 'Know more on Twitter',
-          icon: IconBrandTwitter,
+          icon: icon,
           href: '#',
         },
         {
           title: 'Know more on Linkedin',
-          icon: IconBrandLinkedin,
+          icon: icon,
           href: '#',
         },
         {
           title: 'Contact by email',
-          icon: IconMail,
+          icon: icon,
           href: '#',
         },
       ],
@@ -560,17 +561,17 @@ export const teamHome: TeamProps = {
       items: [
         {
           title: 'Know more on Twitter',
-          icon: IconBrandTwitter,
+          icon: icon,
           href: '#',
         },
         {
           title: 'Know more on Linkedin',
-          icon: IconBrandLinkedin,
+          icon: icon,
           href: '#',
         },
         {
           title: 'Contact by email',
-          icon: IconMail,
+          icon: icon,
           href: '#',
         },
       ],
@@ -585,17 +586,17 @@ export const teamHome: TeamProps = {
       items: [
         {
           title: 'Know more on Twitter',
-          icon: IconBrandTwitter,
+          icon: icon,
           href: '#',
         },
         {
           title: 'Know more on Linkedin',
-          icon: IconBrandLinkedin,
+          icon: icon,
           href: '#',
         },
         {
           title: 'Contact by email',
-          icon: IconMail,
+          icon: icon,
           href: '#',
         },
       ],
@@ -617,17 +618,17 @@ export const contactHome: ContactProps = {
     {
       title: 'Our Address',
       description: ['1230 Maecenas Street Donec Road', 'New York, EEUU'],
-      icon: IconMapPin,
+      icon: icon,
     },
     {
       title: 'Contact',
       description: ['Mobile: +1 (123) 456-7890', 'Mail: tailnext@gmail.com'],
-      icon: IconPhoneCall,
+      icon: icon,
     },
     {
       title: 'Working hours',
       description: ['Monday - Friday: 08:00 - 17:00', 'Saturday & Sunday: 08:00 - 12:00'],
-      icon: IconClock,
+      icon: icon,
     },
   ],
   form: {

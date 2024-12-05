@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import { IconCheck } from '@tabler/icons-react';
 
-import { ContentProps } from '../src/shared/types';
+import { ContentProps } from '../../shared/types';
 import Headline from '../common/Headline';
 import WidgetWrapper from '../common/WidgetWrapper';
 import ItemGrid from '../common/ItemGrid';
@@ -43,12 +43,8 @@ const Content = ({
               <Image
                 className="mx-auto w-full rounded-lg shadow-lg bg-gray-400 dark:bg-slate-700"
                 src={image.src}
-                width={828}
-                height={828}
                 alt={image.alt}
-                sizes="(max-width: 768px) 100vw, 432px"
-                placeholder="blur"
-                quality={50}
+                quality={50000}
               />
             </div>
           )}
