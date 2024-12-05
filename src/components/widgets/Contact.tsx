@@ -1,6 +1,6 @@
 import Form from '../common/Form';
 import Headline from '../common/Headline';
-import { ContactProps } from '../src/shared/types';
+import { ContactProps } from '../../shared/types';
 import WidgetWrapper from '../common/WidgetWrapper';
 
 const Contact = ({ header, content, items, form, id, hasBackground = false }: ContactProps) => (
