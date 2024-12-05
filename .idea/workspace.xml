@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="722cae0b-e81f-4141-a5c3-1e1a9f2416d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/optimize.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/optimize.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(pages)/about/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(pages)/contact/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(pages)/faqs/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(pages)/pricing/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(pages)/services/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/atoms/ToggleMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/ToggleMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/demo-post-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/demo-post-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/demo-post-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/demo-post-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/data/global.data.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/data/global.data.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +58,9 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2pnVTgV7aaPj8TPZNU8nn5K6y5D" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -56,22 +69,22 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "github-action-setup",
-    "last_opened_file_path": "/Users/karolina.cetera/Desktop/cwv-performathon/src/assets/svgs",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/karolina.cetera/Desktop/cwv-performathon/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;github-action-setup&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/karolina.cetera/Desktop/cwv-performathon/src/assets/svgs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/karolina.cetera/Desktop/cwv-performathon/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets/svgs" />
