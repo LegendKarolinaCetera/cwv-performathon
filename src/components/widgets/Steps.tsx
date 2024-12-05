@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import { IconCheck } from '@tabler/icons-react';
-import { StepsProps } from '../src/shared/types';
+import { StepsProps } from '../../shared/types';
 import WidgetWrapper from '../common/WidgetWrapper';
 import Timeline from '../common/Timeline';
 import Headline from '../common/Headline';
@@ -33,7 +33,6 @@ const Steps = ({
             subtitleClass={isImageDisplayed ? 'text-left rtl:text-right' : ''}
           />
         )}
-        <Timeline items={items} defaultIcon={IconCheck} iconClass="text-primary border-primary-900" />
       </div>
       {isImageDisplayed && (
         <div className="relative md:basis-1/2">
@@ -41,10 +40,8 @@ const Steps = ({
             <Image
               src={image.src}
               width={400}
-              height={768}
+              height={200}
               alt={image.alt}
-              placeholder="blur"
-              className="inset-0 object-cover object-top w-full rounded-md shadow-lg md:absolute md:h-full bg-gray-400 dark:bg-slate-700"
               quality={50}
             />
           )}

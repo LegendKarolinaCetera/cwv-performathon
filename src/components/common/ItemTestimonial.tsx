@@ -1,7 +1,8 @@
 import Image from 'next/image';
 import { twMerge } from 'tailwind-merge';
-import { Testimonial } from '../src/shared/types';
+import { Testimonial } from '../../shared/types';
 import DividerLine from './DividerLine';
+import icon from "../../assets/svgs/ftisp.svg"
 
 const ItemTestimonial = ({
   name,
@@ -29,7 +30,7 @@ const ItemTestimonial = ({
             <div className={twMerge('flex items-center', dataClass)}>
               {image && (
                 <Image
-                  src={image.src}
+                  src={icon}
                   width={248}
                   height={248}
                   alt={image.alt}

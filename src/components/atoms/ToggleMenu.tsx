@@ -1,7 +1,7 @@
 'use client';
 
 import { IconMenu, IconX } from '@tabler/icons-react';
-import { ToggleMenuProps } from '../src/shared/types';
+import { ToggleMenuProps } from '../../shared/types';
 
 const ToggleMenu = ({ handleToggleMenuOnClick, isToggleMenuOpen }: ToggleMenuProps) => (
   <button

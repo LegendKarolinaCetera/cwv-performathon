@@ -1,5 +1,5 @@
 import Headline from '../common/Headline';
-import { TeamProps } from '../src/shared/types';
+import { TeamProps } from '../../shared/types';
 import WidgetWrapper from '../common/WidgetWrapper';
 import ItemTeam from '../common/ItemTeam';
 

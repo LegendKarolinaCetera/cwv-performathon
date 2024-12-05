@@ -113,7 +113,7 @@ type Item = {
   description?: string | Array<string>;
   href?: string;
   form?: SmallForm;
-  icon?: Icon;
+  icon?: any;
   callToAction?: CallToActionType;
 };
 
